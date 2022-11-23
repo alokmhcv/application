@@ -1,6 +1,6 @@
 This is file c.
 mod 1.
 Modification 2 to file C.
-Modification 5 to file C.
 Modification 3 to file C.
 Modification 4 to file C.
+Modification 5 to file C.
